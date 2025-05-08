@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tiernon Wolf - ENG 102 Reflection Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    body { font-family: 'Inter', sans-serif; background: #f0f4f8; color: #1f2937; margin: 0; }
+    header { background: linear-gradient(to right, #1e3a8a, #3b82f6); color: white; padding: 3rem 1rem; text-align: center; }
+    header h1 { font-size: 2.8rem; margin-bottom: 0.5rem; }
+    header p { font-size: 1.2rem; }
+    main { max-width: 1000px; margin: 2rem auto; padding: 1rem; }
+    .section { background: white; padding: 2rem; margin-bottom: 2rem; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.05); }
+    h2 { color: #1e3a8a; margin-bottom: 0.75rem; font-size: 1.75rem; border-bottom: 2px solid #d1d5db; padding-bottom: 0.5rem; }
+    p { font-size: 1.05rem; line-height: 1.8; margin-bottom: 1rem; }
+    .artifact-link, .section ul li a { display: inline-block; margin-top: 0.75rem; color: #2563eb; font-weight: 600; text-decoration: none; transition: color 0.2s ease-in-out; }
+    .artifact-link:hover, .section ul li a:hover { color: #1e40af; }
+    .section ul { padding-left: 1.5rem; }
+    .visual { width: 100%; max-height: 280px; object-fit: cover; margin-top: 1rem; margin-bottom: 1rem; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); }
+    footer { text-align: center; padding: 2rem; font-size: 0.9rem; color: #6b7280; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Tiernon Wolf – ENG 102 Reflection Portfolio</h1>
+    <p>Spring 2025 | Nevada State College @SECTA</p>
+  </header>
+
+  <main>
+    <div class="section">
+      <h2>Introduction</h2>
+      <p>Hi, my name is Tiernon, and I’m currently a student preparing to study <strong>mechanical engineering at Texarkana</strong> after graduation. Throughout this semester in ENG 102, I’ve grown significantly as a writer—particularly in how I research and find credible sources to support my arguments. At first, I mostly summarized sources and struggled to connect them. Over time, I learned how to synthesize research, adapt tone for different audiences, and use feedback to make my ideas clearer and stronger. </p>
+      <p>I’ve included major writing projects from the semester, including my <strong>Literary Analysis of Frankenstein</strong>, <strong>Sharing Knowledge Project</strong> on teen mental health and social media, <strong>Literature Review</strong>, and <strong>Annotated Bibliography</strong>.</p>
+    </div>
+
+    <div class="section">
+      <h2>Reflect on Authorship</h2>
+      <h3>Question: How did text, images, or multimodal approaches impact your work?</h3>
+      <p>In my <strong>Sharing Knowledge Project</strong>, I used a video format to explain how social media affects teen mental health. This helped me turn research into a clear message using images, quotes, and narration. I used visuals and audio to show how platforms like TikTok and Instagram influence stress, sleep, and self-worth. As someone who builds cars, I see writing now like I see engineering: you need a solid structure (research), a clean design (presentation), and a clear outcome (purpose). This assignment helped me combine technical evidence with engaging delivery.</p>
+      <a class="artifact-link" href="https://youtu.be/your-video-link">Watch: Sharing Knowledge Project Video</a>
+    </div>
+
+    <div class="section">
+      <h2>Reflect on the Writing Process</h2>
+      <h3>Question: Describe a time you received feedback and how you used it.</h3>
+      <p>When drafting my <strong>Literature Review</strong>, my instructor said it read like a list instead of a cohesive argument. I realized I had good information, but it wasn’t organized to show connections. I took that feedback and reorganized by theme: addiction, bullying, and comparison. It turned a weak draft into a stronger, flowing review. The hardest part was cutting things I liked—but the result was worth it. I also realized real revision is more than editing—it’s rethinking the purpose and logic of your writing.</p>
+      <a class="artifact-link" href="/mnt/data/annotated-Wolf%2C%20Tiernon%20Literature%20Review%20final%20draft.pdf">Download Literature Review (PDF)</a>
+    </div>
+
+    <div class="section">
+      <h2>Reflect on Critical Thinking & Reading</h2>
+      <h3>Question: What challenges did you face in research and how did you deal with them?</h3>
+      <p>One of the hardest parts of writing the <strong>Literature Review</strong> was narrowing my topic. "Social media and mental health" is huge. I kept finding great sources but couldn’t connect them. Eventually, I focused on one question: does social media cause more harm than good for teens? That helped me filter sources and build a focused paper. I learned to organize notes by issue instead of by article, and that helped me compare ideas instead of just summarize them. This strategy made my work more critical and analytical.</p>
+      <a class="artifact-link" href="/mnt/data/annotated-Wolf%2C%20Tiernon%20Literature%20Review%20final%20draft.pdf">Download Literature Review (PDF)</a>
+    </div>
+
+    <div class="section">
+      <h2>Reflect on Information Literacy</h2>
+      <h3>Question: How did you use and evaluate evidence?</h3>
+      <p>In my <strong>Annotated Bibliography</strong>, I chose sources from peer-reviewed journals, trusted medical institutions, and expert videos. I used APA format to organize and credit all sources. Some were easy to understand, like Jonathan Haidt’s interview on YouTube. Others, like the Cureus journal article, were more technical. I learned how to summarize complex material and explain why it matters. I also learned to look at who published the source and whether they had bias or credibility. This helped me improve both my research and argument strength.</p>
+      <a class="artifact-link" href="/mnt/data/Wolf,%20Tiernon%20Anotated%20Bibliography.pdf">Download Annotated Bibliography (PDF)</a>
+    </div>
+
+    <div class="section">
+      <h2>Reflect on Rhetorical Knowledge</h2>
+      <h3>Question: What was the most important thing you learned, and how will you use it?</h3>
+      <p>The most important thing I learned in this class is how to adjust my writing for the situation—what's called the "rhetorical situation." In my <strong>Sharing Knowledge Project</strong>, I had to think about my audience (teens and parents), my purpose (raise awareness), and how to explain complex ideas in plain language. As someone entering engineering, this matters. I’ll need to write for both experts and the public. This course taught me that writing isn't just about grammar—it's about getting a message across clearly and persuasively.</p>
+      <a class="artifact-link" href="https://youtu.be/your-video-link">Watch: Sharing Knowledge Project Video</a>
+    </div>
+
+    <div class="section">
+      <h2>Conclusion</h2>
+      <p>ENG 102 helped me become more than just a student who writes papers. I became a writer who can think critically, use evidence, respond to feedback, and communicate clearly to different audiences. I see writing as a tool—like a wrench or a laptop—to help solve real problems. Whether I’m writing a lab report, a proposal, or a public message, I now know how to approach it with a process that works. My growth this semester is like building a car: it starts with a messy frame, but with the right tools, it turns into something that runs.</p>
+    </div>
+
+    <div class="section">
+      <h2>Artifacts</h2>
+      <ul>
+        <li><a href="/mnt/data/annotated-Wolf%2C%20Tiernon%20Literature%20Review%20final%20draft.pdf">Literature Review (PDF)</a></li>
+        <li><a href="/mnt/data/Wolf,%20Tiernon%20Anotated%20Bibliography.pdf">Annotated Bibliography (PDF)</a></li>
+        <li><a href="https://youtu.be/your-video-link">Sharing Knowledge Project Video</a></li>
+        <li><a href="#">Literary Analysis of Frankenstein</a></li>
+      </ul>
+    </div>
+  </main>
+
+  <footer>
+    &copy; 2025 Tiernon Wolf | ENG 102 Composition II
+  </footer>
+</body>
+</html>
